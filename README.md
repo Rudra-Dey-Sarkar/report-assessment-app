@@ -2,6 +2,33 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Tech Stack Used 
+1. React.js
+2. Tailwind CSS
+
+## Please Note :-
+I have not enough exposure to the Three.js yet, and the simple 3D animation inspired by the video requires good knowledge of Three.js, so I skipped that 
+portion but if provided some additional time to learn can make that as well.
+
+## Links
+Deployed Application Link :- https://report-assessment-app.vercel.app/
+
+Github Link :- https://github.com/Rudra-Dey-Sarkar/report-assessment-app
+
+## Contacts
+In case you have any doubts you can contact me using below details :-
+
+Email Id :- rudradeysarkar5@gmail.com
+
+Contact No. :- +917811914148
+
+Whatsapp No. :- +919475204453
+
+LinkedIn :- https://www.linkedin.com/in/rudra-dey-sarkar-5625331ba/
+
+## Credits :-
+Only used assets from the figma
+
 ## Available Scripts
 
 In the project directory, you can run:
